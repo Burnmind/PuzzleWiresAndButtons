@@ -1,0 +1,9 @@
+Wire.cpp:8:1:Wire::Wire(uint8_t)	16	static
+Wire.cpp:18:9:uint8_t Wire::isInited()	16	static
+Wire.cpp:26:9:uint8_t Wire::portIsChanged()	16	static
+Wire.cpp:35:9:uint8_t Wire::hasMistake()	16	static
+Wire.cpp:43:9:uint8_t Wire::isRightConnection()	16	static
+Wire.cpp:51:9:uint8_t Wire::necessaryPortIsSet()	16	static
+Wire.cpp:59:6:void Wire::setPort(uint8_t)	16	static
+Wire.cpp:84:9:uint8_t Wire::getCurrentPort()	16	static
+Wire.cpp:88:6:void Wire::setNecessaryPort(uint8_t)	16	static

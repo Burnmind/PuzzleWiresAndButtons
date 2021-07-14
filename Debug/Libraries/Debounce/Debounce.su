@@ -1,0 +1,7 @@
+Debounce.cpp:3:1:Debounce::Debounce(GPIO_TypeDef*, uint16_t, uint32_t)	32	static
+Debounce.cpp:44:6:void Debounce::scanStability()	16	static
+Debounce.cpp:72:6:void Debounce::scanAverage()	16	static
+Debounce.cpp:96:6:void Debounce::setTime(uint32_t)	16	static
+Debounce.cpp:101:9:uint8_t Debounce::readFlagLow()	16	static
+Debounce.cpp:106:9:uint8_t Debounce::readFlagRising()	16	static
+Debounce.cpp:115:9:uint8_t Debounce::readFlagFalling()	16	static

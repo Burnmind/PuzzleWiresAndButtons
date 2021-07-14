@@ -1,0 +1,18 @@
+syscalls.cpp:45:6:void initialise_monitor_handles()	4	static
+syscalls.cpp:49:5:int _getpid()	4	static
+syscalls.cpp:54:5:int _kill(int, int)	16	static
+syscalls.cpp:60:6:void _exit(int)	16	static
+syscalls.cpp:66:27:int _read(int, char*, int)	32	static
+syscalls.cpp:78:27:int _write(int, char*, int)	32	static
+syscalls.cpp:89:5:int _close(int)	16	static
+syscalls.cpp:95:5:int _fstat(int, stat*)	16	static
+syscalls.cpp:101:5:int _isatty(int)	16	static
+syscalls.cpp:106:5:int _lseek(int, int, int)	24	static
+syscalls.cpp:111:5:)	12	static
+syscalls.cpp:117:5:int _wait(int*)	16	static
+syscalls.cpp:123:5:int _unlink(char*)	16	static
+syscalls.cpp:129:5:int _times(tms*)	16	static
+syscalls.cpp:134:5:int _stat(char*, stat*)	16	static
+syscalls.cpp:140:5:int _link(char*, char*)	16	static
+syscalls.cpp:146:5:int _fork()	8	static
+syscalls.cpp:152:5:int _execve(char*, char**, char**)	24	static
